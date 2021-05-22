@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Seungwon's github stats](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Seungwon's github stats](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true)
