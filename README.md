@@ -1,5 +1,6 @@
 ### Welcome 😄! 
 
+![test]https://user-images.githubusercontent.com/35549653/89557319-91e4e500-d84d-11ea-9566-47a14f57b06c.gif
 <!--
 **KwonSeungwon/KwonSeungwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark) 1.ㅎㅇ
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark) 
 <br>
 ![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)
