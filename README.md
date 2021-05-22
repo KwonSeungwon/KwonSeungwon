@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark) 1231232132132131313
+<span style="float: right">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark)</span>
 <br>
 ![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)
