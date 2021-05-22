@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-
+<div style="color: red"></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon)](https://github.com/anuraghazra/github-readme-stats)
 [![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
