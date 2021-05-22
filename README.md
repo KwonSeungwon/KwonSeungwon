@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-<span style="float: right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark)](https://github.com/anuraghazra/github-readme-stats
 <br>
 [![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
