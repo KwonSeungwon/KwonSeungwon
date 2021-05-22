@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
