@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark)
 <br>
 ![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)
