@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-12312414[![Seungwon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon)](https://github.com/anuraghazra/github-readme-stats)
+12312414[![Seungwon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon & show_icons = true & theme = dracula)](https://github.com/anuraghazra/github-readme-stats)
