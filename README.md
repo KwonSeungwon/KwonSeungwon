@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark)
-<br>
-![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)
+![SeungWon Kwon](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&layout=compact&theme=dracula)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF3399&height=200&section=footer)
