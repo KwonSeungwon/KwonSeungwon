@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=30)
+
 ## Hello😄! My name is SeungWon Kwon![hello](https://user-images.githubusercontent.com/35549653/89557319-91e4e500-d84d-11ea-9566-47a14f57b06c.gif)
 
 <!--
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonSeungwon&theme=dark)
 <br>
 ![SeungWon Kwon](https://github-readme-stats.vercel.app/api?username=KwonSeungwon&show_icons=true&theme=dracula)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
