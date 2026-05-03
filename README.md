@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&text=Vibe%20Coder%20:%20Backend%20&%20Infra&fontSize=40&animation=fadeIn" alt="header" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Java+%26+Kotlin+Specialist;K8s+Infra+Enthusiast;AI-Augmented+Developer" alt="Typing SVG" />
 </p>
 
@@ -42,7 +38,6 @@
     <td width="50%" valign="top">
       <h4>🤖 AI-Augmented Workflow</h4>
       <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"> <br>
       <img src="https://img.shields.io/badge/Vibe_Coding-FFD700?style=for-the-badge&logo=vitest&logoColor=black">
     </td>
     <td width="50%" valign="top">
@@ -52,22 +47,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <!-- 잔디 먹는 뱀 애니메이션 -->
-  <img src="https://raw.githubusercontent.com/YOUR_ID/YOUR_ID/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
 
 ### 💡 Recent Thoughts (Vibe Coding Log)
 - "LLM이 생성한 코드를 검증하는 능력이 백엔드 개발자의 새로운 척도가 되는 시대입니다."
