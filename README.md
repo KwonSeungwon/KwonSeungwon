@@ -1,9 +1,7 @@
-<!-- 헤더: Capsule Render 활용 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&text=Vibe%20Coder%20:%20Backend%20&%20Infra&fontSize=40&animation=fadeIn" alt="header" />
 </p>
 
-<!-- 타이핑 애니메이션 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Java+%26+Kotlin+Specialist;K8s+Infra+Enthusiast;AI-Augmented+Developer" alt="Typing SVG" />
 </p>
@@ -76,10 +74,5 @@
 - "K8s 위에서 돌아가는 마이크로서비스를 AI를 이용하여 개발하는 프로젝트를 진행 중입니다."
 
 ---
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-00C73C?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p>
 
 
